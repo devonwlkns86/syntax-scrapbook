@@ -5,13 +5,24 @@ A beginner-friendly reference to help me remember syntax across the languages I�
 This is meant to be simple, accessible, and easy to grow.
 ------------------------------------------------------------------------------------------------------------
 
-## 🐍 Python
+✅ HTML
+    1. ## 🌐 HTML
 
-### 🔁 For Loop
+### 🔤 Basic Structure
 
-```python
-for item in my_list:
-    print(item)
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Page</title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+  </body>
+</html>
+
+
+
 
 
 
