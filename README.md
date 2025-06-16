@@ -5,8 +5,7 @@ A beginner-friendly reference to help me remember syntax across the languages I�
 This is meant to be simple, accessible, and easy to grow.
 ------------------------------------------------------------------------------------------------------------
 
-✅ HTML
-    1. ## 🌐 HTML
+✅ HTML - ## 🌐 HTML
 
 ### 🔤 Basic Structure
 
