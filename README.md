@@ -1,10 +1,7 @@
-# syntax-scrapbook
-My personal syntax reference as I learn to code...
-
-
 # 🧠 Syntax Scrapbook
-
-A personal reference guide to help me remember common syntax in the languages I'm learning.
+---------------------------------------------------------------------------------------------------------
+A beginner-friendly reference to help me remember syntax across the languages I’m learning.  
+This is meant to be simple, accessible, and easy to grow.
 
 ---
 
