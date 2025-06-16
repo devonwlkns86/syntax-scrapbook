@@ -7,7 +7,7 @@ This is meant to be simple, accessible, and easy to grow.
 
 ✅ HTML - ## 🌐 HTML
 
-### 🔤 Basic Structure
+🔤 Basic Structure
 
 ```html
 <!DOCTYPE html>
