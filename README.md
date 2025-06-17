@@ -1,12 +1,13 @@
 # 🧠 Syntax-Scrapbook
-## n00b_status
-## learning
-A personal, beginner-friendly reference for learning programming syntax!
+/*
 
+A personal, beginner-friendly reference for learning programming syntax!
 This repository is my interactive "syntax scrapbook"—a place where 
 I collect and organize small, easy-to-understand code examples 
 for the languages 
 I'm learning: HTML, CSS, JavaScript, React, and Python.
+
+*/
 
 My goal is to make syntax easier to remember by:
 
