@@ -19,26 +19,9 @@ My goal is to make syntax easier to remember by:
 
 Whether you're also just starting out or just need a quick reminder, feel free to fork this and build your own scrapbook!
 
----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
-🌐 HTML - 🔤 Basic Structure
-
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My Page</title>
-  </head>
-  <body>
-    <h1>Hello World</h1>
-  </body>
-</html>
-🧠 Hint: Think of HTML like the skeleton of a website.
-
------     -----     -----     -----     -----     -----     -----     -----     -----     -----     -----    
-------------------------------------------------------------------------------------------------------------
-
-✅ HTML - ## 🌐 HTML
+ ✅ HTML - ## 🌐 HTML
 
 🔤 Basic Structure
 
