@@ -1,9 +1,12 @@
 # 🧠 Syntax-Scrapbook
 # syntax-scrapbook
----------------------------------------------------------------------------------------------------------
+# n00b_status
+# learning
 
 A beginner-friendly reference to help me remember syntax across the languages I’m learning.  
-       This is meant to be simple, accessible, and easy to grow!
+            This is meant to be simple, accessible, and easy to grow!
+A beginner-friendly reference to help me remember syntax across the languages I’m learning.  
+           This is meant to be simple, accessible, and easy to grow!
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -22,13 +25,6 @@ A beginner-friendly reference to help me remember syntax across the languages I�
 🧠 Hint: Think of HTML like the skeleton of a website.
 
 -----     -----     -----     -----     -----     -----     -----     -----     -----     -----     -----    
-
-
-# 🧠 Syntax-Scrapbook
-# syntax-scrapbook
----------------------------------------------------------------------------------------------------------
-A beginner-friendly reference to help me remember syntax across the languages I’m learning.  
-This is meant to be simple, accessible, and easy to grow!
 ------------------------------------------------------------------------------------------------------------
 
 ✅ HTML - ## 🌐 HTML
