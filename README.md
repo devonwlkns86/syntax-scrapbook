@@ -71,9 +71,25 @@ function greet(user) {
 }
 console.log(greet(name));
 
-🧠 Hint: Use let or const. Functions help reuse code.
 
-------------------------------------------------------------------------------------------------------------------
+💡 JavaScript – Arrow Functions + Array Methods
+
+// Transforming an array using .map and an arrow function
+const numbers = [1, 2, 3, 4, 5];
+
+// Double each number
+const doubled = numbers.map(n => n * 2);
+
+console.log(doubled); // [2, 4, 6, 8, 10]
+
+✅ Highlights:
+
+    Arrow function shorthand (n => n * 2)
+
+    .map() for transforming arrays
+
+    Clean and modern JS syntax
+
 
 🔁 Loop
 
@@ -90,6 +106,33 @@ for (let i = 0; i < 5; i++) {
 function Hello() {
   return <h1>Hello React!</h1>;
 }
+
+⚛️ React – useState Hook (State Management)
+
+import React, { useState } from 'react';
+
+function Counter() {
+  const [count, setCount] = useState(0); // Declare state variable
+
+  return (
+    <div>
+      <p>You clicked {count} times</p>
+      <button onClick={() => setCount(count + 1)}>Click me!</button>
+    </div>
+  );
+}
+
+export default Counter;
+
+✅ Highlights:
+
+    useState hook for functional components
+
+    setCount(count + 1) for updating state
+
+    Event handling with onClick
+
+
 
 🧠 Hint
 
@@ -123,6 +166,27 @@ for i in range(5):
 
 def greet(user):
     return "Hi " + user
+
+
+🐍 Python – List Comprehension with Condition
+
+# List comprehension to filter and square even numbers
+numbers = [1, 2, 3, 4, 5, 6]
+
+squares_of_even = [n**2 for n in numbers if n % 2 == 0]
+
+print(squares_of_even)  # [4, 16, 36]
+
+✅ Highlights:
+
+    Compact one-liner with for and if
+
+    Readable and powerful filtering
+
+    Common Python idiom!
+
+
+
 
 🧠 Hint: Python uses colons : and indentation instead of {}
 
