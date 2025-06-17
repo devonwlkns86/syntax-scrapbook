@@ -1,6 +1,6 @@
 # 🧠 Syntax-Scrapbook
-# n00b_status
-# learning
+## n00b_status
+## learning
 A personal, beginner-friendly reference for learning programming syntax!
 
 This repository is my interactive "syntax scrapbook"—a place where 
