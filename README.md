@@ -1,5 +1,4 @@
 # 🧠 Syntax-Scrapbook
-# syntax-scrapbook
 # n00b_status
 # learning
 
