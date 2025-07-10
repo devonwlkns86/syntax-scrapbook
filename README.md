@@ -192,6 +192,34 @@ print(squares_of_even)  # [4, 16, 36]
 
 -------------------------------------------------------------------------------------------------------------------
 
+## ⚛️ React Development Notes
+
+### 🟢 Running the Local Dev Server
+
+Each time you want to run your React app locally, follow these steps:
+
+```bash
+cd /path/to/project
+npm run dev
+
+
+This starts the development server (usually at http://localhost:5173)
+
+Your app will reload automatically as you make changes.
+
+⚠️ Don’t close the terminal! If you close it, the server shuts down.
+
+
+USE THIS >>>>> to restart the APP again if need be >>>>> npm run dev
+
+
+Optional: Open your project folder in VS Code and run the above command inside the built-in terminal.
+
+>>>>>>>>     
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
